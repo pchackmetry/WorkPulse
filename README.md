@@ -35,7 +35,7 @@ It is **not intended to replace medical advice or workplace health policies**. I
 - Session duration tracking
 - Daily work activity tracking
 - Automatic idle detection
-- Automatic timer pause/resume
+- Automatic timer pause and resume
 
 ### Break Tracking
 
@@ -104,20 +104,25 @@ Settings allow users to configure work-health related preferences such as water 
 
 # Download for Windows
 
-The easiest way to use WorkPulse is the Windows release.
+## Latest Release
 
-## Option 1 — Windows Portable Version
+**[⬇️ Download WorkPulse for Windows](https://github.com/pchackmetry/WorkPulse/releases/latest)**
 
-Download the latest:
+The latest Windows release is available through GitHub Releases.
+
+### Portable Windows Version
+
+Download:
 
 `WorkPulse-Windows.zip`
 
-Then:
+### Installation
 
-1. Download the ZIP file.
-2. Extract the ZIP.
-3. Open the extracted `WorkPulse` folder.
-4. Run:
+1. Open the latest GitHub Release.
+2. Download `WorkPulse-Windows.zip`.
+3. Extract the ZIP file.
+4. Open the extracted `WorkPulse` folder.
+5. Run:
 
 ```text
 WorkPulse.exe
